@@ -1,0 +1,13 @@
+{
+  "name": "telegram-post-skills",
+  "owner": {
+    "name": "telegram-post-skills"
+  },
+  "plugins": [
+    {
+      "name": "telegram-post",
+      "source": "./plugins/telegram-post",
+      "description": "Производство текстов для Telegram-канала: онбординг автора, разбор надиктовки, банк идей, сборка и самопроверка поста."
+    }
+  ]
+}
